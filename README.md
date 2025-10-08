@@ -28,8 +28,4 @@ The dashboard was developed using the following tools and technologies:
 
 ---
 
-## 🏁 Summary
-The **Amazon Sales Analysis Dashboard** serves as a powerful data visualization tool for understanding revenue patterns, identifying best-selling products, and analyzing customer engagement through reviews.  
-Its clean layout, interactive visuals, and dynamic filters make it ideal for **business insights**, **performance reporting**, and **sales optimization**.
 
----
