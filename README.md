@@ -24,7 +24,7 @@ The dashboard was developed using the following tools and technologies:
 
 ## 🖼️ 5. Screenshot / Demo
 **Dashboard Preview:**  
-![Amazon Sales Dashboard Preview](https://github.com/AniketBordekar07/Amazon-Sales-Dashboard/blob/main/Snapshot%20of%20Amazon%20Dashboard.png)
+![Amazon Sales Dashboard Preview](https://github.com/AniketBordekar07/Banking-Dashboard/blob/main/Snapshot_of_Banking_Dashboard/Home.png)
 
 ---
 
